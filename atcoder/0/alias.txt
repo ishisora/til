@@ -1,0 +1,6 @@
+alias a='g++ a.cpp && ./a.out'
+alias b='g++ b.cpp && ./a.out'
+alias c='g++ c.cpp && ./a.out'
+alias d='g++ d.cpp && ./a.out'
+alias e='g++ e.cpp && ./a.out'
+alias f='g++ f.cpp && ./a.out'
